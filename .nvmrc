@@ -1,0 +1,3 @@
+# O arquivo .nvmrc é um arquivo de configuração simples usado em projetos Node.js para especificar qual versão exata do Node.js deve ser utilizada naquele projeto específico. 
+# Sua função principal é garantir consistência e compatibilidade no ambiente de desenvolvimento para todos os membros de uma equipe. 
+lts/krypton
