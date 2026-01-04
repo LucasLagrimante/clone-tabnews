@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Clone do TabNews",
+  "homepage": "https://github.com/LucasLagrimante/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/LucasLagrimante/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLagrimante/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "lucaslagrimante",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.0.7",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  }
+}
